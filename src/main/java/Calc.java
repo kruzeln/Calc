@@ -16,6 +16,9 @@ public class Calc {
     public static void main(String args[]) {
         Calc calc = new Calc(5, 8);
 
-        System.out.println("Sumy: " + (calc.a + calc.b));
+        System.out.println("Suma: " + (calc.a + calc.b));
+        System.out.println("Suma: " + calc.sum());
+        System.out.println("Roznica: " + calc.rem());
+        System.out.println("Gdzie ten calc?");
     }
 }
