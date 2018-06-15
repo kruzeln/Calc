@@ -19,6 +19,6 @@ public class Calc {
         System.out.println("Suma: " + (calc.a + calc.b));
         System.out.println("Suma: " + calc.sum());
         System.out.println("Roznica: " + calc.rem());
-        System.out.println("Gdzie ten calc?");
+        System.out.println("Gdzie ten calc w git?");
     }
 }
